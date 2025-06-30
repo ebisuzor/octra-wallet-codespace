@@ -1,0 +1,5 @@
+octra-wallet-codespace/
+├── .devcontainer/
+│   ├── devcontainer.json
+│   └── Dockerfile
+└── setup.sh
