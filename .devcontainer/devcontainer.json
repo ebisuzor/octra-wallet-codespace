@@ -1,0 +1,8 @@
+{
+  "name": "Octra Wallet Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [8888],
+  "postCreateCommand": "./setup.sh"
+}
